@@ -6,6 +6,10 @@
 🌱 Currently contributing to real-time Django projects  
 🚀 Aiming for internships & full-time opportunities in backend/web dev  
 
+## 🌟 Open Source Contributions
+- ✅ [Django PR #2132](https://github.com/django/djangoproject.com/pull/2132) – Contributed Python code in views.
+- ✅ [Cookiecutter Django PR #5939](https://github.com/cookiecutter/cookiecutter-django/pull/5939)
+
 ## 🔧 Tech Stack
 - 💬 Languages: Python, C++, JavaScript
 - 🌐 Web: Django, HTML, CSS, Bootstrap
