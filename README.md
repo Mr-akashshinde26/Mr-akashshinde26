@@ -12,7 +12,7 @@
 - 🛠️ Tools: Git, GitHub, VS Code, Termux, Codespaces
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com
+- 📧 Email: abshinde2605@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/your-link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akash-shinde-30a17426a/))
 
 <!--
