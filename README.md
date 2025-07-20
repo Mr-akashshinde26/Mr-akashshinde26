@@ -13,7 +13,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: abshinde2605@gmail.com
-- 💼 LinkedIn: [[linkedin.com/in/your-link](https://linkedin.com/in/your-link](https://www.linkedin.com/in/akash-shinde-30a17426a/)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akash-shinde-30a17426a/))
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link](https://www.linkedin.com/in/akash-shinde-30a17426a/)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/akash-shinde-30a17426a/))
 
 <!--
 **Mr-akashshinde26/Mr-akashshinde26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
